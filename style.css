@@ -1,0 +1,19 @@
+
+Body {
+    background-color: burlywood;
+    min-height: 100vh;
+   
+}
+header {
+      height: 2rem;
+  padding: 0.5rem;
+  display: flex;
+}
+
+footer {
+
+     height: 2rem;
+    padding: 0.5rem;
+    display: flex;
+
+}
